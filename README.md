@@ -1,4 +1,4 @@
-# vertex-psc-benchmark
+# vertex-model-registry-imports
 
 This project showcases various methods to bring existing models into Vertex Model Registry using Pre-built Containers and Custom Serving Containers.
 

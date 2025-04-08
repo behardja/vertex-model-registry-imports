@@ -24,7 +24,3 @@ Ensure the project environment, network settings, and service accounts used have
 - `Cloud Storage`
 - `Artifact Registry`
 
-
-## Workflow
-![psc-flow.png](./imgs/psc-flow.png)
-
